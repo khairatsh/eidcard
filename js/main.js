@@ -33,6 +33,7 @@
     var hasan = document.getElementById("hasan");
     var saad = document.getElementById("saad");
     var nasef = document.getElementById("nasef");
+    var hagar = document.getElementById("hagar");
     var amany = document.getElementById("amany");
     var menna = document.getElementById("menna");
     var shaoib = document.getElementById("shaoib");
@@ -73,6 +74,7 @@
     hasan.style.display = "none";
     saad.style.display = "none";
     nasef.style.display = "none";
+    hagar.style.display = "none";
     amany.style.display = "none";
     menna.style.display = "none";
     shaoib.style.display = "none";
@@ -81,7 +83,7 @@
 
 
     function myFunctionnilay() {
-
+        hagar.style.display = "none";
     drhossam.style.display = "none";
     sarhan.style.display = "none";
     ramy.style.display = "none";
@@ -129,7 +131,7 @@
         }
 
     function myFunctiondrhossam() {
-
+        hagar.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
     ramy.style.display = "none";
@@ -177,6 +179,7 @@
         }
 
     function myFunctionsarhan() {
+        hagar.style.display = "none";
         drhossam.style.display = "none";
     nilay.style.display = "none";
     ramy.style.display = "none";
@@ -224,6 +227,7 @@
         }
 
     function myFunctionramy() {
+        hagar.style.display = "none";
         drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
@@ -271,6 +275,7 @@
         }
 
     function myFunctionasar() {
+        hagar.style.display = "none";
         drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
@@ -318,6 +323,7 @@
         }
 
     function myFunctionrania() {
+        hagar.style.display = "none";
         drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
@@ -365,7 +371,7 @@
         }
 
     function myFunctioningy() {
-
+        hagar.style.display = "none";
         drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
@@ -413,6 +419,7 @@
         }
 
     function myFunctionranda() {
+        hagar.style.display = "none";
         drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
@@ -460,6 +467,7 @@
         }
 
     function myFunctionmona() {
+        hagar.style.display = "none";
         drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
@@ -507,7 +515,7 @@
         }
 
     function myFunctionmai() {
-
+        hagar.style.display = "none";
         drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
@@ -554,6 +562,7 @@
         }
 
     function myFunctionmaha() {
+        hagar.style.display = "none";
         drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
@@ -601,7 +610,7 @@
         }
 
     function myFunctionmerhan() {
-
+        hagar.style.display = "none";
 drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
@@ -647,7 +656,7 @@ drhossam.style.display = "none";
         
         }
     function myFunctionfady() {
-
+        hagar.style.display = "none";
         drhossam.style.display = "none";
         nilay.style.display = "none";
         sarhan.style.display = "none";
@@ -694,6 +703,7 @@ drhossam.style.display = "none";
         }
         
     function myFunctionmohsen() {
+        hagar.style.display = "none";
         drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
@@ -741,6 +751,7 @@ drhossam.style.display = "none";
         }
 
     function myFunctionsayed() {
+        hagar.style.display = "none";
         drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
@@ -788,7 +799,7 @@ drhossam.style.display = "none";
         }
 
     function myFunctionmali() {
-
+        hagar.style.display = "none";
         drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
@@ -836,7 +847,7 @@ drhossam.style.display = "none";
 
 
     function myFunctionosama() {
-
+        hagar.style.display = "none";
 drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
@@ -883,7 +894,7 @@ drhossam.style.display = "none";
         }
 
     function myFunctionomsaleh() {
-
+        hagar.style.display = "none";
 drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
@@ -928,7 +939,7 @@ drhossam.style.display = "none";
         }
         
         }
-
+        hagar.style.display = "none";
     function myFunctionahsaleh() {
         drhossam.style.display = "none";
     nilay.style.display = "none";
@@ -977,7 +988,7 @@ drhossam.style.display = "none";
         }
 
     function myFunctionnashaat() {
-
+        hagar.style.display = "none";
         drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
@@ -1025,7 +1036,7 @@ drhossam.style.display = "none";
         }
 
     function myFunctionwalid() {
-
+        hagar.style.display = "none";
         drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
@@ -1074,7 +1085,7 @@ drhossam.style.display = "none";
 
     function myFunctionheba() {
 
-
+        hagar.style.display = "none";
 drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
@@ -1121,7 +1132,7 @@ drhossam.style.display = "none";
         }
         
     function myFunctionjo() {
-
+        hagar.style.display = "none";
     drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
@@ -1168,7 +1179,7 @@ drhossam.style.display = "none";
         }
 
     function myFunctionsameh() {
-
+        hagar.style.display = "none";
 drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
@@ -1215,7 +1226,7 @@ drhossam.style.display = "none";
         }
 
     function myFunctionswefy() {
-
+        hagar.style.display = "none";
 drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
@@ -1262,6 +1273,7 @@ drhossam.style.display = "none";
         }
 
     function myFunctionazoz() {
+        hagar.style.display = "none";
         drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
@@ -1309,6 +1321,7 @@ drhossam.style.display = "none";
         }
 
     function myFunctionsherif() {
+        hagar.style.display = "none";
         drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
@@ -1356,6 +1369,7 @@ drhossam.style.display = "none";
         }
 
     function myFunctionwael() {
+        hagar.style.display = "none";
         drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
@@ -1403,6 +1417,7 @@ drhossam.style.display = "none";
         }
 
     function myFunctionroaa() {
+        hagar.style.display = "none";
         drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
@@ -1452,6 +1467,7 @@ drhossam.style.display = "none";
         
 
     function myFunctionyaser() {
+        hagar.style.display = "none";
         drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
@@ -1499,7 +1515,7 @@ drhossam.style.display = "none";
         }
 
     function myFunctionfawzy() {
-
+        hagar.style.display = "none";
 drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
@@ -1546,7 +1562,7 @@ drhossam.style.display = "none";
         }
 
     function myFunctionhasan() {
-
+        hagar.style.display = "none";
 drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
@@ -1593,6 +1609,7 @@ drhossam.style.display = "none";
         }
 
     function myFunctionsaad() {
+        hagar.style.display = "none";
         drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
@@ -1640,6 +1657,7 @@ drhossam.style.display = "none";
         }
 
     function myFunctionnasef() {
+        hagar.style.display = "none";
         drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
@@ -1687,6 +1705,7 @@ drhossam.style.display = "none";
         }
 
     function myFunctionamany() {
+        hagar.style.display = "none";
         drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
@@ -1733,8 +1752,56 @@ drhossam.style.display = "none";
     
         }
 
-    function myFunctionmenna() {
 
+        function myFunctionhagar() {
+            drhossam.style.display = "none";
+        nilay.style.display = "none";
+        sarhan.style.display = "none";
+        ramy.style.display = "none";
+        asar.style.display = "none";
+        rania.style.display = "none";
+        ingy.style.display = "none";
+        randa.style.display = "none";
+        mona.style.display = "none";
+        mai.style.display = "none";
+        maha.style.display = "none";
+        merhan.style.display = "none";
+        fady.style.display = "none";
+        mohsen.style.display = "none";
+        sayed.style.display = "none";
+        mali.style.display = "none";
+        osama.style.display = "none";
+        omsaleh.style.display = "none";
+        ahsaleh.style.display = "none";
+        nashaat.style.display = "none";
+        walid.style.display = "none";
+        heba.style.display = "none";
+        jo.style.display = "none";
+        sameh.style.display = "none";
+        swefy.style.display = "none";
+        azoz.style.display = "none";
+        sherif.style.display = "none";
+        wael.style.display = "none";
+        roaa.style.display = "none";
+        yaser.style.display = "none";
+        fawzy.style.display = "none";
+        hasan.style.display = "none";
+        saad.style.display = "none";
+        nasef.style.display = "none";
+        menna.style.display = "none";
+        shaoib.style.display = "none";
+        marina.style.display = "none";
+    
+            if (hagar.style.display === "block") {
+                hagar.style.display = "none";
+            } else {
+                hagar.style.display = "block";
+            }
+        
+            }
+
+    function myFunctionmenna() {
+        hagar.style.display = "none";
 drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
@@ -1783,6 +1850,7 @@ drhossam.style.display = "none";
 
 
     function myFunctionshaoib() {
+        hagar.style.display = "none";
         drhossam.style.display = "none";
         nilay.style.display = "none";
         sarhan.style.display = "none";
@@ -1830,7 +1898,7 @@ drhossam.style.display = "none";
     }
     
     function myFunctionmarina() {
-
+        hagar.style.display = "none";
     drhossam.style.display = "none";
     nilay.style.display = "none";
     sarhan.style.display = "none";
