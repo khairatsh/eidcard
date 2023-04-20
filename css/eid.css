@@ -9,15 +9,19 @@ img{
   box-shadow: 25px;
   margin-top: 20px;
   margin-bottom: 20px;
+  width: 300px;
 }
 
 .btn{
-  width:200px;
-  max-height: 50px;
-  box-shadow: 0 8px 8px -4px lightblue;
+  box-shadow: 0 8px 8px -4px rgb(122, 122, 122);
 }
 
 .navbartext{
   text-align: center;
   color:#fff
+}
+
+h6{
+  color: #fff;
+  text-align: center;
 }
