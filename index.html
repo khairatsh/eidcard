@@ -43,6 +43,16 @@
         <img src="img/marina.jpg">
       </div>
 
+      <button class ="btn btn-primary col-2 m-3" onclick="myFunction5()">Heba Refaey</button>
+      <div id="heba" class="myDIV">
+        <img src="img/heba.jpg">
+      </div>
+
+      <button class ="btn btn-primary col-2 m-3" onclick="myFunction6()">Yousef Ibrahim</button>
+      <div id="jo" class="myDIV">
+        <img src="img/jo.jpg">
+      </div>
+
   </div>
 
     
@@ -57,12 +67,16 @@
     var shaoib = document.getElementById("shaoib");
     var menna = document.getElementById("menna");
     var marina = document.getElementById("marina");
+    var heba = document.getElementById("heba");
+    var jo = document.getElementById("jo");
 
   function myFunction1() {
 
     shaoib.style.display = "none";
     menna.style.display = "none";
     marina.style.display = "none";
+    heba.style.display = "none";
+    jo.style.display = "none";
     
     if (amany.style.display === "block") {
       amany.style.display = "none";
@@ -76,6 +90,8 @@
     amany.style.display = "none";
     menna.style.display = "none";
     marina.style.display = "none";
+    heba.style.display = "none";
+    jo.style.display = "none";
 
     if (shaoib.style.display === "block") {
       shaoib.style.display = "none";
@@ -90,6 +106,8 @@
     amany.style.display = "none";
     shaoib.style.display = "none";
     marina.style.display = "none";
+    heba.style.display = "none";
+    jo.style.display = "none";
 
     if (menna.style.display === "block") {
       menna.style.display = "none";
@@ -101,14 +119,48 @@
 
 function myFunction4() {
 
-amany.style.display = "none";
-shaoib.style.display = "none";
-menna.style.display = "none";
+    amany.style.display = "none";
+    shaoib.style.display = "none";
+    menna.style.display = "none";
+    heba.style.display = "none";
+    jo.style.display = "none";
 
 if (marina.style.display === "block") {
   marina.style.display = "none";
 } else {
   marina.style.display = "block";
+}
+
+}
+
+function myFunction5() {
+
+amany.style.display = "none";
+shaoib.style.display = "none";
+menna.style.display = "none";
+marina.style.display = "none";
+jo.style.display = "none";
+
+if (heba.style.display === "block") {
+  heba.style.display = "none";
+} else {
+  heba.style.display = "block";
+}
+
+}
+
+function myFunction6() {
+
+amany.style.display = "none";
+shaoib.style.display = "none";
+menna.style.display = "none";
+heba.style.display = "none";
+marina.style.display = "none";
+
+if (jo.style.display === "block") {
+jo.style.display = "none";
+} else {
+jo.style.display = "block";
 }
 
 }
