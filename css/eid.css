@@ -1,0 +1,25 @@
+.myDIV{
+  display: none;
+  border-radius: 20px;
+  max-width: 400px;
+}
+
+
+img{
+  text-align: center;
+  border-radius: 50px;
+  box-shadow: 25px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.btn{
+  width:200px;
+  max-height: 50px;
+  box-shadow: 0 8px 8px -4px lightblue;
+}
+
+.navbartext{
+  text-align: center;
+  color:#fff
+}

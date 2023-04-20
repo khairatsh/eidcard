@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Eid</title>
+    <link href=" " rel="icon">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/all.min.css">
+    <link rel="stylesheet" href="css/eid.css">
+</head>
+<body>
+
+  <nav class="navbar m-auto bg-primary sticky-top">
+    <div class="container">
+      <span class="navbartext">
+        Press your name to see my gift
+      </span>
+    </div>
+  </nav>
+
+  <div class="container">
+
+
+      <button class ="btn btn-primary col-2 m-3" onclick="myFunction1()">Amany Fadlallah</button>
+      <div id="amany" class="myDIV ">
+        <img src="img/amany.jpg">
+      </div>
+
+      <button class ="btn btn-primary col-2 m-3" onclick="myFunction3()">Menna Moustafa</button>
+      <div id="menna" class="myDIV">
+        <img src="img/menna.jpg">
+      </div>
+
+      <button class ="btn btn-primary col-2 m-3" onclick="myFunction2()">Mohamed Shoaib</button>
+      <div id="shaoib" class="myDIV">
+        <img src="img/shoaib.jpg">
+      </div>
+
+      <button class ="btn btn-primary col-2 m-3" onclick="myFunction4()">Marina Ibrahim</button>
+      <div id="marina" class="myDIV">
+        <img src="img/marina.jpg">
+      </div>
+
+  </div>
+
+    
+  
+    
+  
+  
+  
+  <script>
+
+    var amany = document.getElementById("amany");
+    var shaoib = document.getElementById("shaoib");
+    var menna = document.getElementById("menna");
+    var marina = document.getElementById("marina");
+
+  function myFunction1() {
+
+    shaoib.style.display = "none";
+    menna.style.display = "none";
+    marina.style.display = "none";
+    
+    if (amany.style.display === "block") {
+      amany.style.display = "none";
+    } else {
+      amany.style.display = "block";
+    }
+
+  }
+  function myFunction2() {
+
+    amany.style.display = "none";
+    menna.style.display = "none";
+    marina.style.display = "none";
+
+    if (shaoib.style.display === "block") {
+      shaoib.style.display = "none";
+    } else {
+      shaoib.style.display = "block";
+    }
+
+  }
+
+  function myFunction3() {
+
+    amany.style.display = "none";
+    shaoib.style.display = "none";
+    marina.style.display = "none";
+
+    if (menna.style.display === "block") {
+      menna.style.display = "none";
+    } else {
+      menna.style.display = "block";
+    }
+
+}
+
+function myFunction4() {
+
+amany.style.display = "none";
+shaoib.style.display = "none";
+menna.style.display = "none";
+
+if (marina.style.display === "block") {
+  marina.style.display = "none";
+} else {
+  marina.style.display = "block";
+}
+
+}
+
+</script>
+
+<!-- End Products Section -->
+        <script src="js/bootstrap.bundle.min.js"></script>
+        <script src="js/all.min.js"></script>
+        <script src="js/main.js"></script>
+        
+</body>
+</html>
