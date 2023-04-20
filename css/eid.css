@@ -1,0 +1,37 @@
+:root {
+  --color1: #d91e49;
+  --color2: #a62b4e;
+  --color3: #a7a9ac;
+  --color4: #555759;
+  --color5: #939597;
+
+
+
+}.myDIV{
+  display: none;
+  border-radius: 20px;
+}
+
+img{
+  text-align: center;
+  border-radius: 50px;
+  box-shadow: 25px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 300px;
+}
+
+.btn{
+  box-shadow: 0 8px 8px -4px rgb(122, 122, 122);
+}
+
+.navbartext{
+  text-align: center;
+  color:#fff
+}
+
+h6{
+  color: #fff;
+  text-align: center;
+}
+
